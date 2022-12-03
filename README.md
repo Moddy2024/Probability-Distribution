@@ -3,10 +3,11 @@ Probability Distribution Functions is a Python package to help in different kind
 # Installation
 To install published releases from PyPi execute:
 ```bash
-pip install probabilitydistributionfunctions
+ pip install probability-distributions-functions
 ```
 To update visualkeras to the latest version, add the --upgrade flag to the above commands.
 ```bash
-pip install --upgrade probabilitydistributionfunctions
+pip install --upgrade probability-distributions-functions
 ```
 # Example
+You can find the example on how to use the package here.
