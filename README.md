@@ -10,4 +10,4 @@ To update visualkeras to the latest version, add the --upgrade flag to the above
 pip install --upgrade probability-distributions-functions
 ```
 # Example
-You can find the example on how to use the package here.
+You can find the examples on how to use the package and it's different modules in this [folder](https://github.com/Moddy2024/Probability-Distribution-Functions/tree/main/examples).
